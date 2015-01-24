@@ -19,7 +19,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 /**
- * My First Android Studio App
+ * My First Android Studio App by Wiebe Sierd
  */
 public class MyWordTrain extends ActionBarActivity {
 
